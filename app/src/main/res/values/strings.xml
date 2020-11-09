@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notepad Kotlin</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="my_notepad">My Notepad</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="temp">temp</string>
+    <string name="save">SAVE</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+</resources>
